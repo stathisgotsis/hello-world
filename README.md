@@ -1,6 +1,6 @@
-Test README
-===========
+Introducing my new project
+==========================
 
-* 1
-* 2
-* 3
+* Point 1
+* Point 2
+* Point 3
